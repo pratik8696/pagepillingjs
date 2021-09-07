@@ -1,7 +1,7 @@
 import "./styles.css";
 import $ from "jquery";
-import "../jquery.pagepiling.js";
-import "../jquery.pagepiling.css";
+import "./jquery.pagepiling.js";
+import "./jquery.pagepiling.css";
 
 $(document).ready(function () {
   $("#pagepiling").pagepiling({
